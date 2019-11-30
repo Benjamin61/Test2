@@ -12,7 +12,7 @@ namespace HAAHHAH_TEST2
 		{
 			Console.WriteLine("Korv");
 			Console.ReadLine();
-			
+			Console.WriteLine("Korvar");
 		}
 	}
 }
